@@ -1,0 +1,31 @@
+﻿生成启动时间为 2018/1/4 20:02:30。
+     1>项目“G:\Study\C++\Practice\SudukoCrack\SudukoCrack\SudukoCrack.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Software\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\SudukoCrack.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SudukoCrack.cpp SudukoCrackDlg.cpp
+         SudukoCrack.cpp
+         正在生成代码...
+         正在编译...
+         SudukoCrackDlg.cpp
+     1>g:\study\c++\practice\sudukocrack\sudukocrack\sudukocrackdlg.cpp(674): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\study\c++\practice\sudukocrack\sudukocrack\sudukocrackdlg.cpp(685): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\study\c++\practice\sudukocrack\sudukocrack\sudukocrackdlg.cpp(696): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\study\c++\practice\sudukocrack\sudukocrack\sudukocrackdlg.cpp(707): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\study\c++\practice\sudukocrack\sudukocrack\sudukocrackdlg.cpp(718): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\study\c++\practice\sudukocrack\sudukocrack\sudukocrackdlg.cpp(729): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\study\c++\practice\sudukocrack\sudukocrack\sudukocrackdlg.cpp(740): warning C4018: “<”: 有符号/无符号不匹配
+     1>g:\study\c++\practice\sudukocrack\sudukocrack\sudukocrackdlg.cpp(751): warning C4018: “<”: 有符号/无符号不匹配
+         正在生成代码...
+     1>g:\study\c++\practice\sudukocrack\sudukocrack\sudukocrackdlg.cpp(858): warning C4715: “CSudukoCrackDlg::VioCrack”: 不是所有的控件路径都返回值
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\SudukoCrack.res" SudukoCrack.rc 
+       Link:
+         D:\Software\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\Study\C++\Practice\SudukoCrack\Debug\SudukoCrack.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\Software\VS\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"G:\Study\C++\Practice\SudukoCrack\Debug\SudukoCrack.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\Study\C++\Practice\SudukoCrack\Debug\SudukoCrack.lib" /MACHINE:X86 Debug\SudukoCrack.res
+         Debug\stdafx.obj
+         Debug\SudukoCrack.obj
+         Debug\SudukoCrackDlg.obj
+         SudukoCrack.vcxproj -> G:\Study\C++\Practice\SudukoCrack\Debug\SudukoCrack.exe
+     1>已完成生成项目“G:\Study\C++\Practice\SudukoCrack\SudukoCrack\SudukoCrack.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.23
